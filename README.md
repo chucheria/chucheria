@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 library(tibble)
 
 tribble(
-    ~item, ~value, 
-    "name", "Bea",
-    "pronouns", "she / her",
-    "languages", "spanish, english, korean",
-    "company", "mediktiv", 
-    "position", "head of advanced analytics",
-    "code languages", "r, python, julia",
-    "community", "r-ladies madrid",
-    "learning", "singing",
-    "love", "creative coding",
-    "twitter", "@chucheria",
-    "instagram", "@verdicion"
+    ~item,                ~value, 
+    "name",                "Bea",
+    "pronouns",            "she / her",
+    "languages",           "spanish, english, korean",
+    "company",             "mediktiv", 
+    "position",            "head of advanced analytics",
+    "code languages",      "r, python, julia",
+    "community",           "r-ladies madrid",
+    "learning",            "singing",
+    "love",                "creative coding",
+    "twitter",             "@chucheria",
+    "instagram",           "@verdicion"
 )
 ```
 
