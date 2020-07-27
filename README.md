@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕 🌈
 
 <!--
 **chucheria/chucheria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```r
+library(tibble)
+
+tribble(
+    ~item, ~value, 
+    "name", "Bea",
+    "pronouns", "she / her",
+    "languages", "spanish, english, korean",
+    "company", "mediktiv", 
+    "position", "head of advanced analytics",
+    "code languages", "r, python, julia",
+    "community", "r-ladies madrid",
+    "learning", "singing",
+    "love", "creative coding",
+    "twitter", "@chucheria",
+    "instagram", "@verdicion"
+)
+```
+
+Want to get behind the facts? Ping me at bea ✨at ✨ rladies ✨dot ✨org
