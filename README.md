@@ -34,4 +34,4 @@ tribble(
 )
 ```
 
-Want to get behind the facts? Ping me at bea ✨ at ✨ rladies ✨ dot ✨org
+_Want to get behind the facts? Ping me at_ `bea ✨ at✨ rladies ✨ dot✨ org`
