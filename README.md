@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-28282B?logo=docker&logoColor=2496ED&style=for-the-badge)](https://www.docker.com/)
 [![SQL](https://img.shields.io/badge/-SQL-28282B?logo=mysql&logoColor=4479A1&style=for-the-badge)](https://www.mysql.com/)
 [![Neo4j](https://img.shields.io/badge/-Neo4j-28282B?logo=neo4j&logoColor=008CC1&style=for-the-badge)](https://neo4j.com/)
+[![Git](https://img.shields.io/badge/-Git-28282B?logo=git&logoColor=F05032&style=for-the-badge)](https://git-scm.com/)
 
 
 ---
