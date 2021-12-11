@@ -1,4 +1,4 @@
-### Hi, this is Bea 👋
+### 👋, this is ✨ Bea ✨ 
 
 ---
 
