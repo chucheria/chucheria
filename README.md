@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [![Obsidian](https://img.shields.io/badge/-Obsidian-28282B?logo=obsidian&logoColor=483699&style=flat)](https://obsidian.md/)
 [![Feedly](https://img.shields.io/badge/-Feedly-28282B?logo=feedly&logoColor=2BB24C&style=flat)](https://feedly.com/)
 [![Apple](https://img.shields.io/badge/-Apple-28282B?logo=apple&logoColor=white&style=flat)](https://apple.es/)
-![Cats](https://img.shields.io/badge/-🐈%20Cats-28282B?style=flat)
-![Cats](https://img.shields.io/badge/-🍑%20Powerlifting-28282B?style=flat)
+[![Cats](https://img.shields.io/badge/-🐈%20Cats-28282B?style=flat)](https://twitter.com/Chucheria/status/1465024086048919560?s=20)
+[![PowerLifting](https://img.shields.io/badge/-🍑%20Powerlifting-28282B?style=flat)](https://twitter.com/i/status/1469336485669355527)
 
 ---
 
