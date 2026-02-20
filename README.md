@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 
 🪛 Personally I have / use / do
 
-[![Apple Music](https://img.shields.io/badge/-AppleMusic-28282B?logo=applemusic&logoColor=FA243C&style=for-the-badge)]
+[![Apple Music](https://img.shields.io/badge/-AppleMusic-28282B?logo=applemusic&logoColor=FA243C&style=for-the-badge)]()
 [![Notion](https://img.shields.io/badge/-Notion-28282B?logo=notion&logoColor=white&style=for-the-badge)](https://www.notion.so/chucheria/Bea-Hern-ndez-fc57baa2d430495291906c230d7a3570)
-[![Apple](https://img.shields.io/badge/-Apple-28282B?logo=apple&logoColor=white&style=for-the-badge)](https://apple.es/)
 [![Cats](https://img.shields.io/badge/-🐈%20Cats-28282B?style=for-the-badge)]()
 [![PowerLifting](https://img.shields.io/badge/-🍑%20Powerlifting-28282B?style=for-the-badge)]()
 [![Pagebound](https://img.shields.io/badge/-📚%20PageBound-28282B?style=for-the-badge)](https://pagebound.co/users/Chucheria)
