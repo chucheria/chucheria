@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I code IA with
+👩‍💻 I code with
 
 [![Python](https://img.shields.io/badge/-Python-28282B?logo=python&logoColor=3776AB&style=for-the-badge)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-28282B?logo=r&logoColor=276DC3&style=for-the-badge)](https://www.r-project.org/)
 [![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-28282B?logo=scikit-learn&logoColor=F7931E&style=for-the-badge)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-28282B?logo=tensorflow&logoColor=FF6F00&style=for-the-badge)](https://www.tensorflow.org/)
+[![Do Why](https://img.shields.io/badge/-Do_Why-28282B?style=for-the-badge)](https://github.com/py-why/dowhy)
+[![PyMC](https://img.shields.io/badge/-PyMC-28282B?style=for-the-badge)](https://www.pymc.io/welcome.html)
 
 ---
 
