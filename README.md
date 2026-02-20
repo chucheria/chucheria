@@ -42,18 +42,17 @@ Here are some ideas to get you started:
 
 🪛 Personally I have / use / do
 
-[![Spotify](https://img.shields.io/badge/-Spotify-28282B?logo=spotify&logoColor=1DB954&style=for-the-badge)](https://open.spotify.com/user/chucheria)
+[![Apple Music](https://img.shields.io/badge/-AppleMusic-28282B?logo=applemusic&logoColor=FA243C&style=for-the-badge)]
 [![Notion](https://img.shields.io/badge/-Notion-28282B?logo=notion&logoColor=white&style=for-the-badge)](https://www.notion.so/chucheria/Bea-Hern-ndez-fc57baa2d430495291906c230d7a3570)
-[![Obsidian](https://img.shields.io/badge/-Obsidian-28282B?logo=obsidian&logoColor=483699&style=for-the-badge)](https://obsidian.md/)
-[![Feedly](https://img.shields.io/badge/-Feedly-28282B?logo=feedly&logoColor=2BB24C&style=for-the-badge)](https://feedly.com/)
 [![Apple](https://img.shields.io/badge/-Apple-28282B?logo=apple&logoColor=white&style=for-the-badge)](https://apple.es/)
-[![Cats](https://img.shields.io/badge/-🐈%20Cats-28282B?style=for-the-badge)](https://twitter.com/Chucheria/status/1465024086048919560?s=20)
-[![PowerLifting](https://img.shields.io/badge/-🍑%20Powerlifting-28282B?style=for-the-badge)](https://twitter.com/i/status/1469336485669355527)
+[![Cats](https://img.shields.io/badge/-🐈%20Cats-28282B?style=for-the-badge)]()
+[![PowerLifting](https://img.shields.io/badge/-🍑%20Powerlifting-28282B?style=for-the-badge)]()
+[![Pagebound](https://img.shields.io/badge/-📚%20PageBound-28282B?style=for-the-badge)](https://pagebound.co/users/Chucheria)
 
 ---
 
 💬 Let's chat
 
-[![Twitter](https://img.shields.io/badge/-chucheria-28282B?logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/Chucheria)
-[![Instagram](https://img.shields.io/badge/-verdicion-28282B?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://www.instagram.com/verdicion/)
+[![BlueSky](https://img.shields.io/badge/-chucheria-28282B?logo=bluesky&logoColor=1185FE&style=for-the-badge)](https://bsky.app/profile/chucheria.bsky.social)
+[![Instagram](https://img.shields.io/badge/-beatriceps-28282B?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://www.instagram.com/beatriceps/)
 [![LinkedIn](https://img.shields.io/badge/-BeaH-28282B?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bea-h-9ab53b71/)
